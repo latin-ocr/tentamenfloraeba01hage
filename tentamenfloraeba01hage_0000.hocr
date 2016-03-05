@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tentamenfloraeba01hage_0000.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2074 4368 2172 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2074 4368 2172 4368">
+     <span class='ocr_line' id='line_1_1' title="bbox 2074 4368 2172 4368; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 2074 4368 2172 4368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2074 4368 2152 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2074 4368 2152 4368">
+     <span class='ocr_line' id='line_1_2' title="bbox 2074 4368 2152 4368; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 2074 4368 2152 4368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2832 4368 2898 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2832 4368 2898 4368">
+     <span class='ocr_line' id='line_1_3' title="bbox 2832 4368 2898 4368; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 2832 4368 2898 4368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2912 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2912 4368">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2912 4368; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 2912 4368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2863 53 2894 253">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2863 53 2894 253">
+     <span class='ocr_line' id='line_1_5' title="bbox 2863 53 2894 253; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 2868 249 2881 253; x_wconf 36' lang='grc' dir='ltr'>Α,</span> <span class='ocrx_word' id='word_1_6' title='bbox 2867 202 2894 246; x_wconf 47' lang='grc' dir='ltr'>Ἑνὶ</span> <span class='ocrx_word' id='word_1_7' title='bbox 2866 113 2872 117; x_wconf 88' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2872 92 2888 106; x_wconf 47' lang='grc' dir='ltr'>,υ</span> <span class='ocrx_word' id='word_1_9' title='bbox 2863 53 2885 87; x_wconf 46' lang='grc' dir='ltr'>ης...</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
